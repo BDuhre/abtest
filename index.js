@@ -13,7 +13,7 @@ let apiProxy = httpProxy.createProxy({
 
 
 let aUrls = [
-    "https://Bduhre.github.io/Test1/Newest",
+    "https://bduhre.github.io/teest2/",
     "https://Bduhre.github.io/Test1/SecondNewest"
 ];
 
